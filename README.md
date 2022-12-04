@@ -5,12 +5,12 @@
 ## It is a major research topic in machine learning because the price of a car depends on many factors.
 
 ### Some packages are:
-numpy
-pandas
-matplotlib
-seaborn
-Automate EDA by klib 
-scikit-learn
+1.numpy
+2.pandas
+3.matplotlib
+4.seaborn
+5.Automate EDA by klib 
+6.scikit-learn
 
 ### Description
 1. This project takes the parameters of an used car like: Company name, Model name, Year of Purchase, Fuel Type and Number of Kilometers it has been driven
