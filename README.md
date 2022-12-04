@@ -20,7 +20,9 @@
 
 ### How does this Project does?
  1.First of all the data was taken from Link for data: https://www.kaggle.com/datasets/balaka18/quikr-cars-scraped
+ 
  2. The data was cleaned and analysed.
+ 
  3. Then a Linear Regression model was built on top of it which had 0.8897 R2_score.
 
  
