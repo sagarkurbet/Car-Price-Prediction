@@ -4,7 +4,7 @@
 ### One of the main areas of research in Machine learning is the Prediction of the Price of Cars. It is based on finance and the marketing domain.
 ### It is a major research topic in machine learning because the price of a car depends on many factors.
 
-### Some packages are:
+### Libraries used :
 1.numpy
 2.pandas
 3.matplotlib
