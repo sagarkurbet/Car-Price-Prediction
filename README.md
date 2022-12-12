@@ -20,6 +20,6 @@
 3. The data was cleaned and EDA was done by using automate EDA tool called Klib to get meaning full insights.
 4. Then a Linear Regression model was built on top of it which had 0.8897 R2_score.
 5. For example, the image below shows the predicted price of our Maruti Suzuki Swift of 2019 which was driven for 100kms .
-![image](https://user-images.githubusercontent.com/118672526/205478330-701fd478-5d84-430b-a2ac-39e9fe131829.JPG)
+
  
   
